@@ -1,0 +1,11 @@
+C:\CaseStudy\ModelLayer\bin\Debug\net9.0\ModelLayer.deps.json
+C:\CaseStudy\ModelLayer\bin\Debug\net9.0\ModelLayer.dll
+C:\CaseStudy\ModelLayer\bin\Debug\net9.0\ModelLayer.pdb
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ModelLayer.AssemblyInfoInputs.cache
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ModelLayer.AssemblyInfo.cs
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ModelLayer.dll
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\refint\ModelLayer.dll
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ModelLayer.pdb
+C:\CaseStudy\ModelLayer\obj\Debug\net9.0\ref\ModelLayer.dll

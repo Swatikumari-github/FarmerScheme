@@ -1,0 +1,17 @@
+C:\CaseStudy\RepositoryLayer\bin\Debug\net9.0\RepositoryLayer.deps.json
+C:\CaseStudy\RepositoryLayer\bin\Debug\net9.0\RepositoryLayer.runtimeconfig.json
+C:\CaseStudy\RepositoryLayer\bin\Debug\net9.0\RepositoryLayer.dll
+C:\CaseStudy\RepositoryLayer\bin\Debug\net9.0\RepositoryLayer.pdb
+C:\CaseStudy\RepositoryLayer\bin\Debug\net9.0\ModelLayer.dll
+C:\CaseStudy\RepositoryLayer\bin\Debug\net9.0\ModelLayer.pdb
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.AssemblyInfo.cs
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\Reposito.A0A61804.Up2Date
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.dll
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\refint\RepositoryLayer.dll
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.pdb
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\RepositoryLayer.genruntimeconfig.cache
+C:\CaseStudy\RepositoryLayer\obj\Debug\net9.0\ref\RepositoryLayer.dll

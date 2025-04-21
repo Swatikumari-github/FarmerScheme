@@ -1,0 +1,17 @@
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\BusinessLayer.deps.json
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\BusinessLayer.dll
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\BusinessLayer.pdb
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\ModelLayer.dll
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\RepositoryLayer.dll
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\ModelLayer.pdb
+C:\CaseStudy\BusinessLayer\bin\Debug\net9.0\RepositoryLayer.pdb
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.AssemblyInfo.cs
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\Business.EA331CBA.Up2Date
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.dll
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\refint\BusinessLayer.dll
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\BusinessLayer.pdb
+C:\CaseStudy\BusinessLayer\obj\Debug\net9.0\ref\BusinessLayer.dll

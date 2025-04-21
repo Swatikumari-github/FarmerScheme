@@ -1,0 +1,6 @@
+@FarmerSchemeApp_HostAddress = http://localhost:5129
+
+GET {{FarmerSchemeApp_HostAddress}}/swagger/
+Accept: application/json
+
+###
